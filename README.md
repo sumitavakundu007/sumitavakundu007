@@ -34,8 +34,8 @@
 <p><h3 align='left'>Publications</h3>
     <ul>
         <li><a href="#">Will be updated soon</a></li>
-</p>
-<p><h3 align='left'>Conferences attended</h3>
+
+<h3 align='left'>Conferences attended</h3>
     <ul>
         <li><a href="https://sites.google.com/view/actsm2020/home">Advanced Computational Techniques in Soft Matter (ACTSM-2020), SNBNCBS </a> Principal instructer: Prof. Daan Frenkel</li>
         <li><a href="https://www.icts.res.in/program/bssp2020">Bangalore School on Statistical Physics - XI (Online-2020), ICTS </a></li>
