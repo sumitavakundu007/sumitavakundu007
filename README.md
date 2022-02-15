@@ -5,6 +5,32 @@
 <p>MSc (2016-2018): <a href="http://physics.rkmvu.ac.in/">Department of Physics, Ramakrishna Mission Vivekananda Educational and Research Institute, Belur Math, Kolkata</a></p>
 <p>PhD (2018-present) : <a href="http://iacs.res.in/">School of Chemical Sciences, Indian Association for the Cultivation of Science, Kolkata</a></p>
 
+<div  class="skills-bar">
+<p><a href="#">Python3</a></p>
+<div class="progress">
+    <div class="progress-bar1" style="width: 85%;">85%</div>
+</div>
+<p><a href="#">C++</a></p>
+<div class="progress">
+    <div class="progress-bar2" style="width: 85%;">85%</div>
+</div>
+<p><a href="#">HTML and CSS</a></p>
+<div class="progress">
+    <div class="progress-bar3" style="width: 75%;">75%</div>
+</div>
+<p><a href="#">Linux Bash Script</a></p>
+<div class="progress">
+    <div class="progress-bar4" style="width: 70%;">70%</div>
+</div>
+<p><a href="#">Fortran 95</a></p>
+<div class="progress">
+    <div class="progress-bar5" style="width: 60%;">60%</div>
+</div>
+<p><a href="#">Graphic Design</a></p>
+<div class="progress">
+    <div class="progress-bar6" style="width: 50%;">50%</div>
+</div>
+
 <h2>Awards</h2>
 <div class="awards_list">
     <ul>
