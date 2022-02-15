@@ -28,3 +28,6 @@
     <li>All India rank 2652 in WBJEE (West Bengal Joint Entrance Examination), 2013 (percentile 99.15)</li>
 </ul>
 
+<h2>Graduate research (Supervisor : <a href="http://iacs.res.in/faculty-profile.html?id=120">DR. Avisek Das</a>)</h2>
+<p align='left'> </p>
+
