@@ -7,6 +7,8 @@
 
 <h2 align='left'>Skills</h2>
 <p><h3 align='left'>Programming languages : C, C++, Python (Numpy, Scipy, Matplotlib, Pandas, Seaborn), Fortran 95</h3></p>
+<p><h3 align='left'>High performance computing : OpenMP, MPI, PBS (Job scheduler)</h3></p>
+<p><h3 align='left'>Web development : HTML, CSS, JavaScript (Job scheduler)</h3></p>
 
 <h2>Awards</h2>
 <div class="awards_list">
