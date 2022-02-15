@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, this is Sumitava Kundu</h1>
+<h1 align='center'>Hi, I'm Sumitava Kundu</h1>
 <p align='left'>A graduate student in the field of Soft Matter Physics at <a href="http://iacs.res.in/">Indian Association for the Cultivation of Science, Kolkata</a>, interested in Physics, Mathematics, Computer Science, modern technologies, sports and equally involved in capturing stunning photographs as passion. My interests in Physics share a huge intersection region with Classical Statistical Mechanics and Condensed matter Physics.</p>
 
 <p>BSc (2013-2016) : <a href="https://www.sxccal.edu/b-sc-physics-department/">Department of Physics, St. Xavier's College, Kolkata</a></p>
@@ -29,5 +29,13 @@
 </ul>
 
 <h2>Graduate research (Supervisor : <a href="http://iacs.res.in/faculty-profile.html?id=120">DR. Avisek Das</a>)</h2>
-<p align='left'> </p>
+<p align='left'>Currently I am working on the melting of entropic colloidal crystal of hard polyhedron with finite volume and trying to investigate the phase transition using the method "Hard Particle Monte Carlo simulation".</p>
+<details><summary>CLICK here for details</summary>
+<p><h3 align='left'>Conferences attended</h3>
+    <ul>
+        <li><a href="https://sites.google.com/view/actsm2020/home">Advanced Computational Techniques in Soft Matter (ACTSM-2020), SNBNCBS, </a> Principal instructer: Prof. Daan Frenkel</li>
+    </ul>
+</p>
+</details>
+
 
