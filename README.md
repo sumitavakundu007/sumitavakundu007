@@ -31,16 +31,15 @@
 <h2>Graduate research (Supervisor : <a href="http://iacs.res.in/faculty-profile.html?id=120">DR. Avisek Das</a>)</h2>
 <p align='left'>Currently I am working on the melting of entropic colloidal crystal of hard polyhedron with finite volume and trying to investigate the phase transition using the method "Hard Particle Monte Carlo simulation".</p>
 <details><summary>CLICK here for details</summary>
-<p><h3 align='left'>Publications</h3>
-    <ul>
-        <li><a href="#">Will be updated soon</a></li>
+<h3 align='left'>Publications</h3>
+<ul>
+    <li><a href="#">Will be updated soon</a></li>
 
 <h3 align='left'>Conferences attended</h3>
-    <ul>
-        <li><a href="https://sites.google.com/view/actsm2020/home">Advanced Computational Techniques in Soft Matter (ACTSM-2020), SNBNCBS </a> Principal instructer: Prof. Daan Frenkel</li>
-        <li><a href="https://www.icts.res.in/program/bssp2020">Bangalore School on Statistical Physics - XI (Online-2020), ICTS </a></li>
-    </ul>
-</p>
+<ul>
+    <li><a href="https://sites.google.com/view/actsm2020/home">Advanced Computational Techniques in Soft Matter (ACTSM-2020), SNBNCBS </a> Principal instructer: Prof. Daan Frenkel</li>
+    <li><a href="https://www.icts.res.in/program/bssp2020">Bangalore School on Statistical Physics - XI (Online-2020), ICTS </a></li>
+</ul>
 </details>
 
 
