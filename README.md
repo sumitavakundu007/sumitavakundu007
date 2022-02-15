@@ -10,6 +10,7 @@
 <p><b align='left'>High performance computing :</b> OpenMP, MPI, PBS (Job scheduler)</p>
 <p><b align='left'>Web development :</b> HTML, CSS, JavaScript (Job scheduler)</p>
 <p><b align='left'>Miscellaneous :</b> BASH, Git, SQL, Latex, GIMP, Blender, Inkscape</p>
+<p><b align='left'>Operating systems :</b> Linux, Windows</p>
 
 <h2>Awards</h2>
 <ul>
