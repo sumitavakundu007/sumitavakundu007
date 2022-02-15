@@ -9,24 +9,21 @@
 <p><b align='left'>Programming languages :</b> C, C++, Python (Numpy, Scipy, Matplotlib, Pandas, Seaborn), Fortran 95</p>
 <p><b align='left'>High performance computing :</b> OpenMP, MPI, PBS (Job scheduler)</p>
 <p><b align='left'>Web development :</b> HTML, CSS, JavaScript (Job scheduler)</p>
-<p><b align='left'>Miscellaneous :</b> BASH, Git, SQL</p>
+<p><b align='left'>Miscellaneous :</b> BASH, Git, SQL, Latex, GIMP, Blender, Inkscape</p>
 
 <h2>Awards</h2>
-<div class="awards_list">
-    <ul>
-        <li>INSPIRE Fellowship, DST, Govt. of India (2019-2024) for continuing Doctoral studies (PhD)</li>
-        <li>INSPIRE Scholarship (Continuation), DST, Govt. of India (2016-2018) for obtaining 70% marks in bachelor programme (BSc)</li>
-        <li>INSPIRE Scholarship, DST, Govt. of India (2013-2016) for securing position in top 1% of WBCHSE (West Bengal state board)</li>
-        <li>Summer project fellow (May'2017-July'2017), Institute for Plasma Research, Gujarat, India </li>
-        <li>Certificate of Merit by English Language Lovers' Association (ELLA), West Bengal, for securing highest marks in English (XII) in subdivision</li>
-    </ul>
-  </div>
-  <div class="achievements_list"></div>
-    <h2>Achievements</h2>
-    <ul>
-        <li>Qualified GATE (Graduate Aptitude Test in Engineering), 2018 with GATE score 389</li>
-        <li>Qualified IELTS with score 6.5 (September'2017)</li>
-        <li>All India rank 223 in JEST (Joint Entrance Screening Test), 2016 (percentile 94.65)</li>
-        <li>All India rank 2652 in WBJEE (West Bengal Joint Entrance Examination), 2013 (percentile 99.15)</li>
-    </ul>
-</div>
+<ul>
+    <li>INSPIRE Fellowship, DST, Govt. of India (2019-2024) for continuing Doctoral studies (PhD)</li>
+    <li>INSPIRE Scholarship (Continuation), DST, Govt. of India (2016-2018) for obtaining 70% marks in bachelor programme (BSc)</li>
+    <li>INSPIRE Scholarship, DST, Govt. of India (2013-2016) for securing position in top 1% of WBCHSE (West Bengal state board)</li>
+    <li>Summer project fellow (May'2017-July'2017), Institute for Plasma Research, Gujarat, India </li>
+    <li>Certificate of Merit by English Language Lovers' Association (ELLA), West Bengal, for securing highest marks in English (XII) in subdivision</li>
+</ul>
+<h2>Achievements</h2>
+<ul>
+    <li>Qualified GATE (Graduate Aptitude Test in Engineering), 2018 with GATE score 389</li>
+    <li>Qualified IELTS with score 6.5 (September'2017)</li>
+    <li>All India rank 223 in JEST (Joint Entrance Screening Test), 2016 (percentile 94.65)</li>
+    <li>All India rank 2652 in WBJEE (West Bengal Joint Entrance Examination), 2013 (percentile 99.15)</li>
+</ul>
+
