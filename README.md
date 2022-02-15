@@ -9,6 +9,7 @@
 <p><h3 align='left'>Programming languages :</h3> C, C++, Python (Numpy, Scipy, Matplotlib, Pandas, Seaborn), Fortran 95</p>
 <p><h3 align='left'>High performance computing :</h3> OpenMP, MPI, PBS (Job scheduler)</p>
 <p><h3 align='left'>Web development :</h3> HTML, CSS, JavaScript (Job scheduler)</p>
+<p><h3 align='left'>Miscellaneous :</h3> BASH, Git, SQL</p>
 
 <h2>Awards</h2>
 <div class="awards_list">
