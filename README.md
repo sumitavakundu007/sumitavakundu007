@@ -1,4 +1,1 @@
-<h1 align="center">Hi, this is Sumitava Kundu</h1>
-<p align="center">
-    A graduate student in the field of Soft Matter Physics at [Indian Association for the Cultivation of Science, Kolkata](http://iacs.res.in/), particularly interested in hard particle self-assembly and equally involved in capturing stunning photographs as passion. My interests in Physics share a huge intersection region with Classical Statistical Mechanics and Condensed matter Physics. I am invovled in activities promoting science awareness among rural students.  
-</p>
+<h2> Hi, I am <font color="#2b5c82"><b>Sumitava Kundu</b></font>, a graduate student in the field of <b>Soft Matter Physics</b> at <b>Indian Association for the Cultivation of Science, Kolkata</b>, particularly interested in <b>hard particle self-assembly</b> and equally involved in capturing stunning photographs as passion. My interests in Physics share a huge intersection region with Classical Statistical Mechanics and Condensed matter Physics. I am invovled in activities promoting science awareness among rural students. </h2> 
