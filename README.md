@@ -1,6 +1,9 @@
 <h1 align='center'>Hi, this is Sumitava Kundu</h1>
 <p align='left'>A graduate student in the field of Soft Matter Physics at <a href="http://iacs.res.in/">Indian Association for the Cultivation of Science, Kolkata</a>, interested in Physics, Mathematics, Computer Science, modern technologies, sports and equally involved in capturing stunning photographs as passion. My interests in Physics share a huge intersection region with Classical Statistical Mechanics and Condensed matter Physics.</p>
 
+<p>BSc : <a href="https://www.sxccal.edu/b-sc-physics-department/">Department of Physics, St. Xavier's College, Kolkata</a></p>
+<p>MSc : <a href="http://physics.rkmvu.ac.in/">Department of Physics, Ramakrishna Mission Vivekananda Educational and Research Institute, Belur Math, Kolkata</a></p>
+
 <h2>Awards</h2>
 <div class="awards_list">
     <ul>
