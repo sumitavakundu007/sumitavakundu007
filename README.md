@@ -1,4 +1,4 @@
-### Hi, this is Sumitava Kundu 👋
+<h1 align="center">Hi, this is Sumitava Kundu</h1>
 
 <!--
 Here are some ideas to get you started:
