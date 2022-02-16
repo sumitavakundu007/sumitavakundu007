@@ -2,7 +2,7 @@
 <p align='left'>A graduate student in the field of Soft Matter Physics at <a href="http://iacs.res.in/">Indian Association for the Cultivation of Science, Kolkata</a>, interested in Physics, Mathematics, Computer Science, modern technologies, sports and equally involved in capturing stunning photographs as passion. My interests in Physics share a huge intersection region with Classical Statistical Mechanics and Condensed matter Physics.</p>
 
 <p>BSc (2013-2016) : <a href="https://www.sxccal.edu/b-sc-physics-department/">Department of Physics, St. Xavier's College, Kolkata</a></p>
-<p>MSc (2016-2018): <a href="http://physics.rkmvu.ac.in/">Department of Physics, Ramakrishna Mission Vivekananda Educational and Research Institute, Belur Math, Kolkata</a></p>
+<p>MSc (2016-2018): <a href="http://physics.rkmvu.ac.in/">Department of Physics, Ramakrishna Mission Vivekananda Educational and Research Institute, Belur Math</a></p>
 <p>PhD (2018-present) : <a href="http://iacs.res.in/">School of Chemical Sciences, Indian Association for the Cultivation of Science, Kolkata</a></p>
 
 <h2 align='left'>Skills</h2>
