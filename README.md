@@ -45,5 +45,7 @@
 </details>
 <h2>Master research (Supervisor : <a href="https://www.ipr.res.in/">DR. Mrityunjay Kundu, Institute for Plasma Research, Gandhinagar, Gujarat</a>)</h2>
 <p align='left'>I worked on "Binary Collision" in plasma using the method Classical Monte Carlo simulation and studied the different types of Relaxation rates i.e. Slowing-down frequency rates, Velocity diffusion rates, Energy-loss frequency rate and Thermal relaxation rates. </p>
-<h3><a class="btn1" href="files/bincol.pdf">Project Report >></a><a class="btn2" href="files/ssp_poster.pdf">Poster >></a></h3>
-
+<details><summary>CLICK here for details</summary>
+    <p><a class="btn1" href="files/bincol.pdf">Project Report >></a></p>
+    <p><a class="btn2" href="files/ssp_poster.pdf">Poster >></a></p>
+</details>
