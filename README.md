@@ -49,3 +49,7 @@
     <p><a class="btn1" href="files/bincol.pdf">Project Report >></a></p>
     <p><a class="btn2" href="files/ssp_poster.pdf">Poster >></a></p>
 </details>
+<h2>Bachelor research (Supervisor : DR. Sudipto Roy, St. Xavier's College, Kolkata)</h2>
+<details><summary>CLICK here for details</summary>
+    <p><a class="btn1" href="files/bsc_project_report.pdf">Project Report >></a></p>
+</details>
