@@ -43,5 +43,6 @@
         </ul>
     </details>
 </details>
-
+<h2>Master research (Supervisor : <a href="https://www.ipr.res.in/">DR. Mrityunjay Kundu</a>)</h2>
+<h3>Institute for Plasma Research, Gandhinagar, Gujarat</h3>
 
