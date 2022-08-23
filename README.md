@@ -6,9 +6,9 @@
 <p>PhD (2018-present) : <a href="http://iacs.res.in/">School of Chemical Sciences, Indian Association for the Cultivation of Science, Kolkata</a></p>
 
 <h2 align='left'>Skills</h2>
-<p><b align='left'>Programming languages :</b> C, C++, Python (Numpy, Scipy, Matplotlib, Pandas, Seaborn), Fortran 95</p>
+<p><b align='left'>Programming languages :</b> C, C++, Python (Numpy, Scipy, Matplotlib, Pandas, Seaborn, tkinter), Fortran 95</p>
 <p><b align='left'>High performance computing :</b> OpenMP, MPI, PBS (Job scheduler)</p>
-<p><b align='left'>Web development :</b> HTML, CSS, JavaScript (Job scheduler)</p>
+<p><b align='left'>Web development :</b> HTML, CSS, JavaScript, PBS (Job scheduler)</p>
 <p><b align='left'>Miscellaneous :</b> BASH, Git, SQL, Latex, GIMP, Blender, Inkscape</p>
 <p><b align='left'>Operating systems :</b> Linux, Windows</p>
 
